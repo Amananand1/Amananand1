@@ -8,8 +8,8 @@
 I'm
 Full Stack Web Developer
 Currently i am doing my intenship in Edureka.I am very happy to work with Edureka.I am working here in two major projects-- <br>
-a. Food websites  
-b. TRS (Tourist recommendation system) websites <br>
+a. Food website  
+b. TRS (Tourist recommendation system) website <br>
 The technology i am familer and work is HTML5, CSS3 , JavaScript ,Racat , jquary ,Bootstrap5 , NodeJs , MogoDB ,Mysql.
 Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level web developer.To enhance my knowledge and capabilities by working in a dynamic organization that prides itself in giving substantial responsibility to new talent.
 
