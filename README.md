@@ -1,7 +1,27 @@
-### Hi there 👋
+### Hi Developers 👋
 
-<!--
-**Amananand1/Amananand1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube Badge](https://img.shields.io/badge/YouTube-AndroWeb-red)](https://www.youtube.com/channel/UCj0A5crgk-mWHVFmwkzJLjA)
+[![Linkedin Badge](https://img.shields.io/badge/-Aman Anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://linkedin.com/in/(https://www.linkedin.com/in/aman-anand-6296041a7/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aman-green)](http://androweb.in/)
+
+
+I'm
+Full Stack Web Developer
+Currently i am doing my intenship in Edureka.I am very happy to work with Edureka.I am working here in two major projects--
+a. Food websites
+b. TRS (Turist recomadation saystem) websites
+The technology i am familer and work is HTML5, CSS3 , JavaScript ,Racat , jquary ,Bootstrap5 , NodeJs , MogoDB ,Mysql.
+Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level web developer with a reputed firm driven by technology.
+
+
+![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+
+
+Languages and Tools: 
+
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+
+
 
 Here are some ideas to get you started:
 
@@ -12,5 +32,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: .....
+
 -->
