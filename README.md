@@ -15,7 +15,6 @@ Passionate about implementing and launching new projects. Ability to translate b
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/Amananand1 /count.svg)
 
 
 Languages and Tools: 
