@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-AndroWeb-red)](https://www.youtube.com/channel/UCj0A5crgk-mWHVFmwkzJLjA)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-anand-6296041a7/)](https://www.linkedin.com/in/aman-anand-6296041a7/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-anand-6296041a7/)](https://www.linkedin.com/in/aman-anand-6296041a7/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aman-green)](http://androweb.in/)
 
 
